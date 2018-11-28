@@ -12,3 +12,4 @@
 * Chapter 6: [Colab](https://colab.research.google.com/drive/1HfhynNNsYSjggSMaR8a1ztAYrciEsd8m#scrollTo=qemhV7pDIkxu), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-6)
 * Chapter 7: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-7)
 * Chapter 8: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-8)
+* Chapter 9: [Colab](https://colab.research.google.com/drive/1VYnR504dOUcQsQxxqCeerZcIzhDjk3U4), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-9)
