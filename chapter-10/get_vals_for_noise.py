@@ -1,14 +1,14 @@
 import numpy as np
-from keras.applications.resnet50 import ResNet50
-from foolbox.criteria import Misclassification, ConfidentMisclassification
 from keras.preprocessing import image as img
-from keras.applications.resnet50 import preprocess_input, decode_predictions
-import matplotlib.pyplot as plt
+from keras.applications.resnet50 import preprocess_input, decode_predictions, ResNet50
 import foolbox
-import pprint as pp
-Import keras
-%matplotlib inline
+import pandas as pd
+import keras
 
+#TODO: add comments to this file
+
+keras.backend.set_learning_phase(0)
+kmodel = ResNet50(weights='imagenet')
 
 mu_list = range(50, 200, 10)
 sigma_list = range(10, 100, 2)
@@ -25,7 +25,4 @@ for mu, sigma in zip(mu_list, sigma_list):
     storage_df = pd.concat([new_df, storage_df])
 
 
-max_vals.to_csv('initialization_vals_for_noise.csv')
-
-sigma_list = list(max_vals.sigma)
-mu_list = list(max_vals.mu)
+storage_df.to_csv('initialization_vals_for_noise.csv')
