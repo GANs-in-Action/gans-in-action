@@ -26,7 +26,7 @@ storage_df = pd.DataFrame()
 
 # In a for loop generate a bunch of mean and variances values
 for mu, sigma in zip(mu_list, sigma_list):
-	# sample for this particular mean and var from normal at that location
+    # sample for this particular mean and var from normal at that location
     rand_noise = np.random.normal(loc=mu, scale=sigma, size=(224,224, 3))
     # preprocess
     rand_noise = np.clip(preprocess_input(rand_noise), 0, 255.)
