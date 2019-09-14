@@ -2,7 +2,7 @@
 ###### by [Jakub Langr](https://github.com/jakubLangr) and [Vladimir Bok](https://github.com/vbok)
 #### Available at: https://www.manning.com/books/gans-in-action
 
-<img src="/img/book_cover.png" width="50%">
+<img src="/img/GANs_in_Action_cover.png" width="50%">
 
 
 #### List of available code: 
