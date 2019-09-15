@@ -1,11 +1,9 @@
-# GANs in Action
+# [GANs in Action](https://www.manning.com/books/gans-in-action)
 ###### by [Jakub Langr](https://github.com/jakubLangr) and [Vladimir Bok](https://github.com/vbok)
-#### Available at: https://www.manning.com/books/gans-in-action
 
 <img src="/img/GANs_in_Action_cover.png" width="50%">
 
-
-#### List of available code: 
+### List of available code: 
 * Chapter 2: [Colab](https://colab.research.google.com/drive/1CPz-YvvJV8gHlsD2o68B0FYKFzaT6RCA), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-2)
 * Chapter 3: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-3)
 * Chapter 4: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-4)
