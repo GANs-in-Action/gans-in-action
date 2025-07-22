@@ -1,6 +1,6 @@
 # GANs in Action — Code Companion
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.6+-blue.svg" alt="Python 3.6+">
   <img src="https://img.shields.io/badge/TensorFlow-1.8.0+-orange.svg" alt="TensorFlow 1.8.0+">
   <img src="https://img.shields.io/badge/Keras-2.1.6+-red.svg" alt="Keras 2.1.6+">
