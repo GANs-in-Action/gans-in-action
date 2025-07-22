@@ -1,0 +1,69 @@
+# Core Deep Learning Libraries
+tensorflow==1.8.0
+keras==2.1.6
+h5py==2.7.1
+
+# Numerical Computing
+numpy==1.14.5
+scipy==1.1.0
+
+# Data Processing and Loading
+pandas==0.23.0
+scikit-learn==0.19.1
+scikit-image==0.14.0
+
+# Image Processing
+Pillow==5.2.0
+opencv-python==3.4.1.15
+imageio==2.3.0
+
+# Visualization
+matplotlib==2.2.2
+seaborn==0.8.1
+plotly==3.0.0
+
+# Jupyter Notebook Support
+jupyter==1.0.0
+notebook==5.5.0
+ipywidgets==7.2.1
+ipykernel==4.8.2
+
+# Progress Bars
+tqdm==4.23.4
+
+# Utility Libraries
+six==1.11.0
+requests==2.19.1
+urllib3==1.23
+
+# For TensorBoard Support
+tensorboard==1.8.0
+tensorboardX==1.2
+
+# Additional ML Utilities
+gym==0.10.5  # For reinforcement learning examples if needed
+
+# Data Download and Management
+wget==3.2
+gdown==3.8.3  # For downloading from Google Drive
+
+# Configuration Management
+pyyaml==3.12
+configparser==3.5.0
+
+# Optional: For GPU Support
+# tensorflow-gpu==1.8.0  # Uncomment if using GPU
+
+# Optional: For Progressive GAN and high-res image processing
+# opencv-contrib-python==3.4.1.15
+
+# Note: Some packages might have compatibility issues with newer Python versions.
+# If you encounter issues with Python 3.6, consider using Python 3.6.8 specifically.
+# 
+# To install all requirements:
+# pip install -r requirements.txt
+#
+# For GPU support, additionally install:
+# pip install tensorflow-gpu==1.8.0
+#
+# Make sure CUDA 9.0 and cuDNN 7.0 are installed for TensorFlow 1.8.0 compatibility
