@@ -269,11 +269,11 @@ If you use this code in your research, please cite the book:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This code is provided under the MIT License.
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions to improve this repository! If you find any issues, have suggestions for improvements, or want to add more comprehensive examples, please feel free to open an issue or submit a pull request.
 
 ## 💬 Contact
 
