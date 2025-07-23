@@ -269,7 +269,7 @@ If you use this code in your research, please cite the book:
 
 ## 📄 License
 
-This code is provided under the MIT License.
+This code is provided under the MIT License. See the `LICENSE` file for details.
 
 ## 🤝 Contributing
 
